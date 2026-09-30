@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vidhi&fontSize=60&fontColor=ffffff)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=VidhiSen&fontSize=60&fontColor=ffffff)
 
 <div align="center">
 
@@ -32,6 +32,8 @@ I build frontend and full-stack web apps, and I'm looking for **software enginee
 </picture>
 
 ## 📫 Let's connect
-[LinkedIn](https://www.linkedin.com/in/vidhi-sen-2a5b12329/) · [LeetCode](https://leetcode.com/u/VidhiSen/) · [Email](mailto:senvidhi761@gmail.com)
+<a href="https://www.linkedin.com/in/vidhi-sen-2a5b12329/"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+<a href="mailto:senvidhi761@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
+<a href="https://leetcode.com/u/VidhiSen/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="30" /></a>
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
