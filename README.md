@@ -22,7 +22,7 @@ I build frontend and full-stack web apps, and I'm looking for **software enginee
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhisen08&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vidhisen08&theme=tokyo-night&hide_border=true)
+   ![Streak](https://streak-stats.demolab.com?user=vidhisen08&theme=tokyonight&hide_border=true)
 
 ## 🐍 Contribution snake
 <picture>
